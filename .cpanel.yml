@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/csehokat/backend.csehokata.hu/backend/public_html
+    - /bin/cp -r * $DEPLOYPATH

@@ -1,8 +1,8 @@
 {
-  "name": "kata-website",
+  "name": "Kata-Website-Backend",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "Backend of Kata's website",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -17,7 +17,7 @@
     "sqlite3": "5.0.2"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Mate Szabo"
   },
   "strapi": {
     "uuid": "8d60dd11-bff9-4bb4-9ec9-3cbe25b5ecfd"
